@@ -1,0 +1,45 @@
++---------------------+-------+---------+-----------+
+| Material List for placement 'ÈÛÂ¯×é'                 |
++---------------------+-------+---------+-----------+
+| Item                | Total | Missing | Available |
++---------------------+-------+---------+-----------+
+| Smooth Stone        |  2722 |    2722 |       141 |
+| Hopper              |  1033 |    1033 |         0 |
+| Glass               |   777 |     777 |        64 |
+| Packed Ice          |   682 |     682 |         0 |
+| Powered Rail        |   467 |     467 |         0 |
+| Iron Bars           |   371 |     371 |         0 |
+| Furnace             |   320 |     320 |         0 |
+| Obsidian            |   294 |     294 |         0 |
+| Smooth Stone Slab   |   167 |     167 |        74 |
+| Water Bucket        |   133 |     133 |         0 |
+| Slime Block         |   120 |     120 |         0 |
+| Redstone Dust       |    93 |      93 |         0 |
+| White Carpet        |    80 |      80 |         0 |
+| Iron Trapdoor       |    77 |      77 |         0 |
+| Observer            |    65 |      65 |         0 |
+| Oak Leaves          |    64 |      64 |         0 |
+| Redstone Repeater   |    60 |      60 |         0 |
+| Block of Redstone   |    50 |      50 |         0 |
+| Sticky Piston       |    48 |      48 |         0 |
+| Dead Fire Coral Fan |    40 |      40 |         0 |
+| Oak Fence Gate      |    40 |      40 |         0 |
+| Redstone Comparator |    37 |      37 |         0 |
+| Rail                |    32 |      32 |         0 |
+| Chest               |    30 |      30 |         0 |
+| Dropper             |    20 |      20 |         0 |
+| Soul Sand           |    17 |      17 |         0 |
+| Barrel              |    16 |      16 |         0 |
+| Oak Sign            |    15 |      15 |         0 |
+| Redstone Torch      |    10 |      10 |         0 |
+| Torch               |     7 |       7 |        40 |
+| Lectern             |     5 |       5 |         0 |
+| Note Block          |     4 |       4 |         0 |
+| Glowstone           |     2 |       2 |         0 |
+| Oak Button          |     1 |       1 |         0 |
+| Oak Pressure Plate  |     1 |       1 |         0 |
+| Piston              |     1 |       1 |         0 |
+| Spruce Trapdoor     |     1 |       1 |         0 |
++---------------------+-------+---------+-----------+
+| Item                | Total | Missing | Available |
++---------------------+-------+---------+-----------+

@@ -1,0 +1,66 @@
++--------------------------+-------+---------+-----------+
+| Material List for schematic 'DLHSUTF' (1 of 1 regions) |
++--------------------------+-------+---------+-----------+
+| Item                     | Total | Missing | Available |
++--------------------------+-------+---------+-----------+
+| White Stained Glass      |   518 |     518 |         0 |
+| Block of Iron            |   211 |     211 |         0 |
+| Obsidian                 |   207 |     207 |         0 |
+| Observer                 |   198 |     198 |         1 |
+| Jungle Log               |   143 |     143 |         0 |
+| Gray Glazed Terracotta   |   141 |     141 |         0 |
+| Slime Block              |   107 |     107 |         0 |
+| String                   |    96 |      96 |         0 |
+| Piston                   |    84 |      84 |         0 |
+| Sticky Piston            |    83 |      83 |         1 |
+| Hopper                   |    75 |      75 |         0 |
+| Dark Oak Trapdoor        |    71 |      71 |         0 |
+| Dark Oak Wood            |    70 |      70 |         0 |
+| Powered Rail             |    68 |      68 |         0 |
+| Gray Stained Glass       |    59 |      59 |         0 |
+| Acacia Log               |    58 |      58 |         0 |
+| Dropper                  |    52 |      52 |         0 |
+| Honey Block              |    52 |      52 |         0 |
+| Brown Glazed Terracotta  |    40 |      40 |         0 |
+| Block of Redstone        |    36 |      36 |         0 |
+| Polished Diorite         |    32 |      32 |         0 |
+| Dark Oak Leaves          |    29 |      29 |         0 |
+| Note Block               |    28 |      28 |         0 |
+| Packed Ice               |    27 |      27 |         1 |
+| Redstone Repeater        |    23 |      23 |         0 |
+| Block of Quartz          |    20 |      20 |         0 |
+| Water Bucket             |    17 |      17 |         1 |
+| Quartz Stairs            |    14 |      14 |         0 |
+| Polished Andesite        |    11 |      11 |         0 |
+| Chest                    |    10 |      10 |         0 |
+| Redstone Comparator      |    10 |      10 |         0 |
+| Dispenser                |     9 |       9 |         0 |
+| Redstone Torch           |     8 |       8 |         0 |
+| Birch Log                |     7 |       7 |         0 |
+| Smooth Stone             |     7 |       7 |         0 |
+| Spruce Fence Gate        |     7 |       7 |         0 |
+| Spruce Log               |     6 |       6 |         0 |
+| White Shulker Box        |     6 |       6 |         0 |
+| Anvil                    |     4 |       4 |         0 |
+| Scaffolding              |     4 |       4 |         0 |
+| Cauldron                 |     3 |       3 |         0 |
+| Iron Trapdoor            |     3 |       3 |         0 |
+| Lever                    |     3 |       3 |         1 |
+| Redstone Lamp            |     3 |       3 |         0 |
+| Dark Oak Stairs          |     2 |       2 |         0 |
+| Dead Fire Coral Fan      |     2 |       2 |         0 |
+| Detector Rail            |     2 |       2 |         0 |
+| Jungle Leaves            |     2 |       2 |         0 |
+| Light Gray Stained Glass |     2 |       2 |         0 |
+| Polished Granite         |     2 |       2 |         0 |
+| Quartz Slab              |     2 |       2 |         0 |
+| TNT                      |     2 |       2 |         0 |
+| Command Block            |     1 |       1 |         0 |
+| Composter                |     1 |       1 |         1 |
+| Gray Wool                |     1 |       1 |         0 |
+| Podzol                   |     1 |       1 |         0 |
+| Red Wool                 |     1 |       1 |         0 |
+| Smooth Stone Slab        |     1 |       1 |         0 |
++--------------------------+-------+---------+-----------+
+| Item                     | Total | Missing | Available |
++--------------------------+-------+---------+-----------+

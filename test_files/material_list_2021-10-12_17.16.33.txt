@@ -1,0 +1,27 @@
++-------------------+-------+---------+------------------+
+| Material List for schematic 'Unnamed' (1 of 1 regions) |
++-------------------+-------+---------+------------------+
+| Item              | Total | Missing |        Available |
++-------------------+-------+---------+------------------+
+| Cobblestone       |   162 |     162 |                0 |
+| Oak Leaves        |    44 |      44 |                1 |
+| Polished Diorite  |    44 |      44 |                0 |
+| Lava Bucket       |    40 |      40 |                0 |
+| Piston            |    16 |      16 |                0 |
+| Redstone Repeater |    15 |      15 |                0 |
+| Redstone Dust     |    13 |      13 |                0 |
+| Smooth Stone Slab |    12 |      12 |                0 |
+| Water Bucket      |    12 |      12 |                1 |
+| Slime Block       |     8 |       8 |                0 |
+| Sticky Piston     |     5 |       5 |                1 |
+| String            |     5 |       5 |                0 |
+| Ender Chest       |     4 |       4 |                0 |
+| Detector Rail     |     2 |       2 |                0 |
+| Tripwire Hook     |     2 |       2 |                0 |
+| Lever             |     1 |       1 |                1 |
+| Oak Fence Gate    |     1 |       1 |                0 |
+| Redstone Torch    |     1 |       1 |                0 |
+| TNT               |     1 |       1 |                0 |
++-------------------+-------+---------+------------------+
+| Item              | Total | Missing |        Available |
++-------------------+-------+---------+------------------+
