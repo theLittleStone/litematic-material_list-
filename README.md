@@ -3,3 +3,10 @@
 
 顺便把材料数量转换成了xx组, xx盒这样的模式
 
+原文件: 
+
+![原文件](https://github.com/theLittleStone/litematic-material_list-/tree/main/pictures/before.png)
+
+转换后:
+
+![转换后](https://github.com/theLittleStone/litematic-material_list-/tree/main/pictures/after.png)
