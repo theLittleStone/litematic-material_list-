@@ -52,10 +52,8 @@ for path in file_paths:
     style2 = xlwt.XFStyle()
     style2.font = font2
 
-    try:
-        contentLines = f.readlines()
-    except:
-        print(1)
+    contentLines = f.readlines()
+
     isTitleLine = True
     excelLine = 1
     styleIsRight = False
