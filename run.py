@@ -3,6 +3,7 @@ import re
 import sys
 import os
 import time
+import chardet
 
 # 支持文件拖入启动
 # 如果直接点开, 则转换全部符合的文件
@@ -15,20 +16,27 @@ if not file_paths:
             if re.search(".*[.]txt$", f):
                 file_paths.append(f)
 
+
 for path in file_paths:
     f = None
+    encod = ''
     excelFile = None
     excelSheet = None
     try:
-        f = open(path)
+        with open(path, mode='rb') as m:
+            inp = m.read()
+            encod = chardet.detect(inp)['encoding']
+        f = open(path, mode='r', encoding=encod)
+
     except:
         print(path + '读取文件失败')
         continue
     try:
         excelFile = xlwt.Workbook()
-        excelSheet = excelFile.add_sheet('1')
+        excelSheet = excelFile.add_sheet('material')
     except:
         print(path + "写文件失败")
+        f.close()
         continue
     excelSheet.col(0).width = 22 * 256
     excelSheet.col(1).width = 10 * 256
@@ -69,7 +77,9 @@ for path in file_paths:
     try:
         contentLines = f.readlines()
     except:
-        print(1)
+        print("读文件失败")
+        f.close()
+        continue
     isTitleLine = True
     excelLine = 1
     styleIsRight = False
@@ -124,6 +134,7 @@ for path in file_paths:
             excelFile.save(path + ".xls")
         except:
             print(path + "保存文件失败, 文件可能在别处被打开")
+            f.close()
             continue
         print(path + '转换完成')
     f.close()
