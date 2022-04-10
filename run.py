@@ -9,13 +9,10 @@ import chardet
 # 如果直接点开, 则转换全部符合的文件
 file_paths = sys.argv[1:]
 if not file_paths:
-    dirs = os.walk("./")
-    for files in dirs:
-        file = files[2]
-        for f in file:
-            if re.search(".*[.]txt$", f):
-                file_paths.append(f)
-
+    files = os.listdir(os.getcwd())
+    for f in files:
+        if re.search(".*[.]txt$", f):
+            file_paths.append(f)
 
 for path in file_paths:
     f = None
